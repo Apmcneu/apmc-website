@@ -7,7 +7,7 @@ interface TeamCardProps {
     connect: string;
   }
 
-function teamcard({name, image, designation, connect} : TeamCardProps) {
+function TeamCard({name, image, designation, connect} : TeamCardProps) {
   return (
     // <div className="container">
     //     <div className="card__container">
@@ -30,9 +30,9 @@ function teamcard({name, image, designation, connect} : TeamCardProps) {
   );
 }
 
-export default teamcard
+export default TeamCard
 
-// import TeamCard from './components/TeamCard/teamcard'
+// import TeamCard from './components/TeamCard/TeamCard'
 // import teamlist from './components/TeamCard/team-list'
 // import './components/TeamCard/styles.css'
 
