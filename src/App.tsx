@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    APMC WEBSITE
+    <h1 className="text-red-500">APMC WEBSITE</h1>
     </>
   );
 }
