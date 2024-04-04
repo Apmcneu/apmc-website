@@ -1,0 +1,22 @@
+.join-button {
+    background-color: white;
+    color: black;
+    padding: 13px 20px;
+    border: 2px solid black;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Helvetica';
+}
+  
+.join-button:hover {
+  background-color: #FD5358;
+  color: white;
+  border: 2px solid white;
+}
+
+@media (min-width: 800px) {
+  .join-button {
+  font-size: 20px;
+  }
+}
