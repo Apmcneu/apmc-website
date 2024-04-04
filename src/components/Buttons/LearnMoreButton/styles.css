@@ -1,0 +1,17 @@
+.learn-more-button {
+    background-color: transparent;
+    color: #FD5358;
+    border: none;
+    padding: 13px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Helvetica';
+    
+}
+
+@media (min-width: 800px) {
+  .learn-more-button {
+  font-size: 20px;
+  }
+}
