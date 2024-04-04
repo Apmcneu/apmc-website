@@ -1,0 +1,24 @@
+/* .appBar {
+    background-color: white;
+  } */
+
+.appBarButton {
+    color: black;
+    padding: 5px;
+}
+  
+.logo {
+    margin-left: 50px;
+    margin-right: 20px;
+    height: 100px;
+}
+
+/* .joinUsButton {
+    background-color: red;
+} */
+
+.joinUsText {
+    color: white;
+    padding: 8px;
+    
+}
